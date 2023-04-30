@@ -6,7 +6,7 @@ Poprzez pojęcie n-gramu rozumiemy n-elementowy podciąg jakiegoś ciągu.
 Przykładowo dla ciągu TTAAAGGTTTATACCTTCCCAGGT pierwsze 5-gramy to kolejno
 TTAAA, TAAAG, AAAGG, AAGGT, AGGTT
 
-Program podzielnoy jest na dwie części:
+Program podzielony jest na dwie części:
 ## Część 1 – funkcjonalność generowania i zliczania n-gramów:
 
 • przyjmuje dwa parametry długość n-gramu - N i nazwę pliku w formacie FASTA z danymi genomu,
